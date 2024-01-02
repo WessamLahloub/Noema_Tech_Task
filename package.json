@@ -1,0 +1,19 @@
+{
+  "name": "noema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.6",
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
